@@ -1,2 +1,32 @@
-# cybercamp-docker
-Contains walkthrough for BYU Cybercamp Docker presentation. Also, contains template code for containers
+# Welcome
+
+This README will walk you through Docker installation (if necessary) and how to build the Docker file, in case you want to rebuild this project on your own time. If you are in person at the presentation, you can reference these instructions in real time as we walk through them
+
+
+## What is Docker?
+
+
+## Installing Docker
+
+Docker is fairly simple to install. Based upon your Operating System, follow one of the links below to the correct instructions
+- Windows:
+- Mac:
+- Linux:
+
+
+### Why is Docker so Awesome?
+
+
+## Making a Dockerfile
+
+
+## Using docker-compose
+
+
+## Building your website!
+
+
+## Conclusion
+
+
+## References
